@@ -1,0 +1,36 @@
+.minor-text {
+    max-width: 600px;
+    min-width: 360px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.about-flex-c {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about-flex-c >*{
+    z-index: 2;
+}
+
+.background-image {    
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+    background: url("https://i.imgur.com/O3Bxs16.gif") center;
+    background-size: cover;
+    filter: blur(15px) brightness(50%);
+}
+
+.image-wrapper {
+    position: relative;
+    overflow: hidden;
+}

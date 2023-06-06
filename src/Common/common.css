@@ -1,0 +1,37 @@
+.content-absolute {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.blue-text {
+    color: #0d6efd;
+}
+
+.glow-blue {
+    text-shadow: 0px 0px 64px #0d6dfd80;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.medium-text {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.gray-text {
+    color: rgba(149, 149, 149);
+}
+
+.bold {
+    font-weight: bolder;
+}

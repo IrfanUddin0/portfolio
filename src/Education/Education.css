@@ -1,0 +1,18 @@
+.education-flex-cont{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.education-flex-cont>*{
+    padding: 2em;
+}
+
+.education-details{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
