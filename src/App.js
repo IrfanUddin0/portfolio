@@ -17,7 +17,7 @@ function App() {
             <header className="App-header">
                 <Navbar className='navbar' variant="dark">
                     <Container>
-                        <Navbar.Brand href="#"><p className='title'>Irfan Uddin</p></Navbar.Brand>
+                        <Navbar.Brand href="#"><p className='title'>Irfan Uddin | Portfolio</p></Navbar.Brand>
                         <Nav className="ms-auto">
                             <Nav.Link href="#projects">Projects</Nav.Link>
                             <Nav.Link href="#skills">Skills</Nav.Link>

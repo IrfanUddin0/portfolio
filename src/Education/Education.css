@@ -5,6 +5,7 @@
     text-align: center;
     flex-direction: row;
     flex-wrap: wrap;
+    padding: 2em;
 }
 
 .education-flex-cont>*{
