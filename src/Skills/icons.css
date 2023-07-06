@@ -5,13 +5,13 @@
     height: 10em;
 }
 
-.icon>*>svg{
+.icon>*>img{
     width: 64px;
     height: 64px;
     transition: all 0.25s ease-out;
 }
 
-.icon>*>svg:hover{
+.icon>*>img:hover{
     transform: scale(1.1);
     filter: brightness(1.5);
 }
