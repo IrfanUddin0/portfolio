@@ -14,6 +14,7 @@ export default function Skills() {
                 <Icon name='PHP' img_src='images/php.svg'/>
                 <p className="gray-text" style={{fontWeight : "bolder"}}>Development Technologies</p>
                 <Icon name='OpenGL'  img_src='images/ogl.svg'/>
+                <Icon name='WebGL'  img_src='images/webgl.svg'/>
                 <Icon name='Vulkan'  img_src='images/vulkan.svg'/>
                 <Icon name='React'  img_src='images/react.svg'/>
                 <Icon name='Bootstrap'  img_src='images/bootstrap.svg'/>
