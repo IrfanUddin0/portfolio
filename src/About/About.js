@@ -8,7 +8,7 @@ export default function About() {
     return (
         <div className="content" id='about'>
             <div className='image-wrapper'>
-                <div className='background-image'></div>
+                <div className='background-image' style={{backgroundImage:`url(${process.env.PUBLIC_URL}/images/bggif.gif)`}}></div>
                 <div className='about-flex-c'>
                     <div className='main-text'>
                         <p>
