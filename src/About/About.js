@@ -3,6 +3,7 @@ import './About.css';
 
 import GithubButton from '../Common/GithubButton';
 import ContactButton from '../Common/ContactButton';
+import LinkedInButton from '../Common/LinkedInButton';
 
 export default function About() {
     return (
@@ -17,11 +18,11 @@ export default function About() {
                     </div>
                     <div>
                         <p className='minor-text'>
-                            Currently a Computer Science student at Queen Mary University of London. I'm a hobbyist game dev and also like to explore domains such as real-time graphics rendering, Virtual Reality and AI.
+                            Currently a Computer Science student at Queen Mary University of London. I'm also an experienced hobbyist game dev and also like to explore domains such as real-time computer graphics, Virtual Reality and alot more fields that interests me.
                         </p>
                     </div>
                     <div>
-                        <GithubButton /> <ContactButton/>
+                        <GithubButton /> <LinkedInButton/> <ContactButton/>
                     </div>
                 </div>
             </div>
