@@ -12,7 +12,7 @@ export default function Projects() {
                     <p className='medium-text'>Realtime Raytracer</p>
                     <p className='gray-text'>A realtime software raytracer written in C++ using ImGui and Vulkan</p>
                 </ProjectBox>
-                <ProjectBox src="https://i.imgur.com/cvlUAQ8.png" link="https://i.imgur.com/cvlUAQ8.png">
+                <ProjectBox src="https://i.imgur.com/cvlUAQ8.png" link="https://youtu.be/snGed231NQM?si=L-2DfLOJVEuSQ7o3">
                     <p className='medium-text'>Multiplayer Unreal Engine Game</p>
                     <p className='gray-text'>A Multipler FPS Zombies game made using Unreal Engine with Blueprints and C++</p>
                 </ProjectBox>
