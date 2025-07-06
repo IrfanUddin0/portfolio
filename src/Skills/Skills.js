@@ -4,7 +4,7 @@ export default function Skills() {
     return (
         <div>
             <div className='content' id='skills'>
-                <p className='blue-text main-text glow-blue'>Skills</p>
+                <p className='blue-text main-text'>Skills</p>
                 <p className="gray-text" style={{fontWeight : "bolder"}}>Languages</p>
                 <Icon name='C++' img_src='images/cpp.svg'/>
                 <Icon name='C#'  img_src='images/cs.svg'/>

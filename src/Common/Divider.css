@@ -15,3 +15,7 @@
     background-position: 0px 0px;
     transform: skew(-45deg);
 }
+
+.divider-new{
+    height: 50px;
+}

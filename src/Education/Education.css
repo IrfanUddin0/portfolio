@@ -17,3 +17,8 @@
     flex-direction: column;
     text-align: left;
 }
+
+
+.svgfilter{
+    filter: invert(48%);
+}

@@ -10,8 +10,20 @@
     text-align: center;
 }
 
+.white-text {
+    color: white;
+}
+
 .blue-text {
     color: #0d6efd;
+}
+
+.green-text{
+    color: #198754;
+}
+
+.glow-green {
+    text-shadow: 0px 0px 64px #198754;
 }
 
 .glow-blue {
@@ -29,7 +41,7 @@
 }
 
 .gray-text {
-    color: rgba(149, 149, 149);
+    color: rgb(111, 111, 111);
 }
 
 .bold {

@@ -1,6 +1,6 @@
 .App {
-    color: white;
-    background-color: rgb(20, 20, 20);
+    color: rgb(67, 67, 67);
+    background-color: rgb(230, 230, 230);
     min-height: 100vh;
 }
 
@@ -14,8 +14,7 @@
 }
 
 .navbar {
-    background-color: rgba(20, 20, 20, 0.95);
-    box-shadow: 1px 25px 25px rgb(15, 15, 15);
+    background-color: #e6e6e6;
     width: auto;
 }
 
@@ -26,6 +25,6 @@
 .title{
     font-weight: bolder;
     display: inline;
-    color: #03a9f4;
+    color: #0d6efd;
     animation: waves 4s ease-in-out infinite;
 }

@@ -1,9 +1,10 @@
 import './Divider.css'
-
+/*
 import React, { useEffect, useState,  useRef } from 'react';
-
+*/
 export default function Divider() {
     // eslint-disable-next-line
+    /*
     const [offset, setOffset] = useState(0);
 
     useEffect(() => {
@@ -19,6 +20,14 @@ export default function Divider() {
         <div className='cont' ref={dref}>
             <div className='divider' style={{ backgroundPositionX: dref.current? dref.current.offsetTop + window.pageYOffset / 2: window.pageYOffset / 2 + 'px' }}>
             </div>
+        </div>
+    )
+
+    */
+
+    return(
+        <div className='divider-new'>
+
         </div>
     )
 }

@@ -7,7 +7,7 @@ export default function Contact() {
     return (
         <div>
             <div className='content' id='contact'>
-                <p className='blue-text main-text glow-blue'>Contact</p>
+                <p className='blue-text main-text'>Contact</p>
                 <div className='contact-container'>
                     <p className="bold gray-text" style={{ display: "inline" }}>
                         <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" className="bi bi-envelope-at-fill" viewBox="0 0 16 16">
